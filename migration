@@ -1,0 +1,28 @@
+
+  [37;41m ERROR [39;49m Command "make" is not defined. Did you mean one of these?  
+
+  [90m⇂ make:cast[39m  
+  [90m⇂ make:channel[39m  
+  [90m⇂ make:command[39m  
+  [90m⇂ make:component[39m  
+  [90m⇂ make:controller[39m  
+  [90m⇂ make:event[39m  
+  [90m⇂ make:exception[39m  
+  [90m⇂ make:factory[39m  
+  [90m⇂ make:job[39m  
+  [90m⇂ make:listener[39m  
+  [90m⇂ make:mail[39m  
+  [90m⇂ make:middleware[39m  
+  [90m⇂ make:migration[39m  
+  [90m⇂ make:model[39m  
+  [90m⇂ make:notification[39m  
+  [90m⇂ make:observer[39m  
+  [90m⇂ make:policy[39m  
+  [90m⇂ make:provider[39m  
+  [90m⇂ make:request[39m  
+  [90m⇂ make:resource[39m  
+  [90m⇂ make:rule[39m  
+  [90m⇂ make:scope[39m  
+  [90m⇂ make:seeder[39m  
+  [90m⇂ make:test[39m  
+
